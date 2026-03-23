@@ -16,8 +16,8 @@ Agrega aquí una **captura de pantalla** del resultado final de tu landing page.
 
 ### 🔗 Enlaces del proyecto
 
-- **Repositorio en GitHub:** [Agrega aquí la URL de tu repositorio](https://github.com/)
-- **Sitio desplegado (opcional):** [Agrega aquí la URL del proyecto desplegado, si usaste Vercel o Netlify](https://)
+- **Repositorio en GitHub:**https://github.com/LeonardoMedina123/QR
+- **Sitio desplegado (opcional):** https://qr-9do9.vercel.app
 
 ---
 
@@ -39,33 +39,12 @@ Lista las herramientas y tecnologías que utilizaste en el proyecto. Por ejemplo
 En esta sección describe brevemente **qué aprendiste o reforzaste** al desarrollar este proyecto.  
 Puedes incluir fragmentos de código o mencionar conceptos nuevos que aplicaste.
 
-Ejemplo:
-```html
-<header class="flex items-center justify-between p-6 text-white bg-black">
-  <img src="/logo.svg" alt="Loopstudios Logo" />
-</header>
-```
-```css
-.text-primary {
-  color: hsl(0, 0%, 100%);
-}
-```
-```js
-const toggleMenu = () => {
-  document.getElementById('menu').classList.toggle('hidden');
-}
-```
----
-
+Reforcé más que nada la transicion de utilizar css a tailwind ya que tuve que investigar como era para aplicar las etiquetas de css en clases
 ### 🚀 Áreas de mejora
 
 Menciona aquí los aspectos que podrías mejorar o seguir practicando en futuros proyectos.
 
-**Ejemplo:**
-- Mejorar el manejo del responsive en pantallas pequeñas.  
-- Implementar animaciones o transiciones suaves.  
-- Explorar el uso de variables de Tailwind personalizadas.  
-- Optimizar la estructura del proyecto y el uso de componentes.  
+Definitivamente tengo que mejorar la responsibidad y tambien las etiquetas de tailwind
 
 ---
 
@@ -83,10 +62,10 @@ Incluye los enlaces, documentación o tutoriales que te ayudaron a completar est
 
 ### 👩‍💻 Autor
 
-- **Nombre completo:**  
-- **Carrera:**  
-- **Grupo:**  
-- **Correo institucional:**  
+- **Nombre completo: Leonardo Daniel Medina Castañeda**  
+- **Carrera: TICS**  
+- **Grupo: 11-12 **  
+- **Correo institucional:23151265@aguascalientes.tecnm.mx**  
 
 ---
 
@@ -95,8 +74,8 @@ Incluye los enlaces, documentación o tutoriales que te ayudaron a completar est
 Comparte brevemente tu experiencia durante el desarrollo del proyecto.  
 Puedes responder a preguntas como:
 
-- ¿Qué fue lo más fácil o lo más difícil de realizar?  
-- ¿Qué parte disfrutaste más del desarrollo?  
-- ¿Qué conceptos nuevos aprendiste?  
-- ¿Cómo aplicarías lo aprendido en proyectos futuros?
+- ¿Qué fue lo más fácil o lo más difícil de realizar?  particularmente este proyecto fue muy sencillo y solo tuve dificultad en los paddings
+- ¿Qué parte disfrutaste más del desarrollo?  que solo se utilizo una imagen
+- ¿Qué conceptos nuevos aprendiste?  aprendi a como centrar con tailwind
+- ¿Cómo aplicarías lo aprendido en proyectos futuros? dandole estilos más elegantes a mis paginas
 
